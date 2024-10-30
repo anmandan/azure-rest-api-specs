@@ -1690,7 +1690,13 @@
             "words": [
                 "SEVSNP"
             ]
-        }
+        },
+        {
+            "filename": "**/[specification/subscription/resource-manager/Microsoft.Subscription/preview/2024-08-01-preview/subscriptions.json",
+            "words": 
+                "unifiedforprograms"
+              ]
+        },
     ],
     "enableFiletypes": [
         "cadl"
